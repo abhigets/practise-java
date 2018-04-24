@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/practise-java.iml" filepath="$PROJECT_DIR$/.idea/modules/practise-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/practise-java_main.iml" filepath="$PROJECT_DIR$/.idea/modules/practise-java_main.iml" group="practise-java" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/practise-java_test.iml" filepath="$PROJECT_DIR$/.idea/modules/practise-java_test.iml" group="practise-java" />
+    </modules>
+  </component>
+</project>
